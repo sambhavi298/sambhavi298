@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ZTS Engine v2.0, an AI-powered Code Debugger & Optimizer, and a Financial Chatbot.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on AI and ML projects, full-stack development, and hackathons.<br><br>🤝 I’m looking for help with advanced AI model optimization and enhancing real-time debugging performance.<br><br>🌱 I’m currently learning Deep Learning, AI-driven financial analysis, and scalable backend architectures.<br><br>💬 Ask me about AI, Machine Learning, Web Development, and DSA.<br><br>⚡ Fun fact: I can debug code faster than I can decide what to eat! 😆
+🔭 I’m currently working on ZTS Engine v2.0 and an AI-powered Code Debugger & Optimizer.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on AI and ML projects, full-stack development, and hackathons.<br><br>🤝 I’m looking for help with advanced AI model optimization and enhancing real-time debugging performance.<br><br>🌱 I’m currently learning Deep Learning, AI-driven financial analysis, and scalable backend architectures.<br><br>💬 Ask me about AI, Machine Learning, Web Development, and DSA.<br><br>⚡ Fun fact: I can debug code faster than I can decide what to eat! 😆
 
 
 ## 🌐 Socials:
